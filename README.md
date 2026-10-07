@@ -1,5 +1,5 @@
 # Calidad de Software
-
+# Autor: Dario Guayasamin
 Este repositorio está orientado a la materia de Calidad de Software y tiene como objetivo reforzar conceptos básicos sobre la construcción, validación y mejora de software.
 
 ## ¿Qué es la calidad de software?
